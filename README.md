@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:7C3AED,100:0d1117&height=220&section=header&text=Est-Void&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Future%20Data%20Scientist%20%C2%B7%20Robotics%20Engineer&descSize=20&descAlignY=58&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:8B1A1A,100:0d1117&height=220&section=header&text=Est-Void&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Future%20Data%20Scientist%20%C2%B7%20Robotics%20Engineer&descSize=20&descAlignY=58&descColor=8b949e" />
 </p>
 
 # Hi, I'm Dmitry 👋
@@ -46,7 +46,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-7C3AED?style=flat&logo=arch-linux&logoColor=white)
 ![Niri](https://img.shields.io/badge/-Niri-7C3AED?style=flat&logo=wayland&logoColor=white)
-![Noctalia Shell](https://img.shields.io/badge/-Noctalia%20Shell-6C2BD9?style=flat)
+![Noctalia Shell](https://img.shields.io/badge/-Noctalia%20Shell-800000?style=flat)
 
 > 💡 My setup: **EndeavourOS + niri (Wayland compositor) + Noctalia Shell** — minimalism, speed, and full control.
 
@@ -73,10 +73,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Est-Void&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Est-Void&hide_border=true&background=0D1117&ring=BB86FC&fire=FF6B6B&currStreakLabel=BB86FC&sideLabels=C9D1D9&dates=555555" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Est-Void&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B22222&icon_color=B22222&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Est-Void&hide_border=true&background=0D1117&ring=B22222&fire=FF6B6B&currStreakLabel=B22222&sideLabels=C9D1D9&dates=555555" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Est-Void&layout=compact&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Est-Void&layout=compact&hide_border=true&bg_color=0D1117&title_color=B22222&text_color=C9D1D9&langs_count=8" width="45%" />
 </p>
