@@ -1,82 +1,110 @@
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:8B1A1A,100:0d1117&height=180&section=header&text=Dmitry&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Robotics%20%2F%20ML%20%2F%20Go%20%2F%20Linux&descSize=18&descAlignY=55&descColor=8b949e"
+    alt="Profile header"
+  />
+</div>
+
+# Dmitry — Robotics / ML / Go
+
+Software Development student focused on robotics, machine learning, computer vision and Linux system tooling. I build local LLM assistants, Telegram integrations and Go-based backend/system services.
+
+- 📍 Location: Serbia
+- 🌍 Open to: remote, internship and junior roles
+- 🎯 Focus: ROS2, computer vision, local LLMs, Go backend, Linux systems
+
+---
+
+## Skills
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, Go, C, C++ |
+| Robotics / ML | ROS2, SLAM, OpenCV, YOLO, whisper.cpp, local LLMs |
+| Backend / Systems | Go, gRPC, Redis, D-Bus, systemd, Linux |
+| Tools | Docker, Git, Postman, Wayland (niri), EndeavourOS |
+
+---
+
+## Projects
+
+### Genius Loci — Autonomous Mobile Robot System
+
+Diploma project: a complete software stack for warehouse logistics automation — onboard robot OS (SLAM navigation, stereo vision, A\* and DWA path planning), a FastAPI dispatch server with PostgreSQL, and a React/TypeScript web AIS for fleet monitoring.
+
+- **Stack:** Python, OpenCV, YOLOv8, NumPy/SciPy, ZeroMQ, FastAPI, PostgreSQL, SQLAlchemy, React 18, TypeScript, Vite, Tailwind, Zustand
+- **What I did:**
+  - implemented onboard robot OS with SLAM, stereo vision, A\* / DWA planners and gripper control
+  - built central dispatch server with task dispatcher and real-time WebSocket telemetry
+  - developed web AIS dashboard for fleet and warehouse monitoring
+- **Result:** working AMR system with multi-robot simulation and live map
+- [Repository](https://github.com/Est-Void/Diaploma_KIU)
+
+### Moonlight — TUI Night Sky Simulation
+
+Terminal-based night sky simulation: twinkling stars, meteors, lunar phases and rotating galaxies. Pure Python, zero external dependencies.
+
+- **Stack:** Python 3.10+ (standard library only)
+- **What I did:** implemented rendering loop, starfield, meteors, real lunar phases and interactive controls
+- **Result:** lightweight interactive TUI (runs on any terminal)
+- [Repository](https://github.com/Est-Void/Moonlight)
+
+---
+
+## Currently Building
+
+- Real-time speech recognition pipeline with whisper.cpp
+- ROS2 packages for autonomous robotics
+- Distributed Go services with gRPC
+- Local LLM assistant with Telegram integration (Ollama / llama.cpp), deployed as a systemd service
+
+---
+
+## Linux Environment
+
+I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and full control.
+
+- Custom systemd services for bots and local ML services
+- D-Bus experiments between local processes
+- Docker for isolated services
+
+---
+
+## Education
+
+- **Software and Program Engineering, Singidunum University (Serbia)** — currently studying
+- **Software Development, Kazan Innovative University (KIU)** — top-performing student, specialty 09.02.07 Information Systems and Programming
+
+---
+
+## Languages
+
+- Russian — native
+- English — B2
+- Serbian — A1–A2
+
+---
+
+## Contact
+
+I am open to junior/intern roles, remote work and relocation opportunities.
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3v3rth313ss)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Est-Void@protonmail.com)
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:8B1A1A,100:0d1117&height=220&section=header&text=Est-Void&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Future%20Data%20Scientist%20%C2%B7%20Robotics%20Engineer&descSize=20&descAlignY=58&descColor=8b949e" />
-</p>
-
-# Hi, I'm Dmitry 👋
-
-<p align="center">
-  <strong>Programming Student · Future Data Scientist, AI & Robotics Engineer</strong>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 Top‑performing student in a Russian college, majoring in Software Development  
-- 🌍 Currently studying in Serbia — open to relocation and remote work  
-- 🤖 Passionate about Machine Learning, Computer Vision, and Robotics  
-- 💡 Turning complex problems into simple, elegant solutions  
-- ⚡ Striving for excellence in everything I do  
-
----
-
-### 🔍 What I'm Looking For
-
-**A place in an AI / Robotics startup**, where I can:
-
-- 🧠 Dive deep into real‑world products and ML pipelines  
-- 🤝 Bring value to the team — ready to tackle tasks of any complexity  
-- 🚀 Grow together with the product and the people around me  
-
-> For me, experience and the opportunity to learn from strong engineers are currently more important than a salary.
-
----
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
----
-
-### 🧰 Tools & Environment
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-7C3AED?style=flat&logo=arch-linux&logoColor=white)
-![Niri](https://img.shields.io/badge/-Niri-7C3AED?style=flat&logo=wayland&logoColor=white)
-![Noctalia Shell](https://img.shields.io/badge/-Noctalia%20Shell-800000?style=flat)
-
-> 💡 My setup: **EndeavourOS + niri (Wayland compositor) + Noctalia Shell** — minimalism, speed, and full control.
-
----
-
-### 🌱 Currently Learning
-
-- Deep Learning (PyTorch, TensorFlow)  
-- Computer Vision (OpenCV, YOLO)  
-- ROS2 for Robotics  
-
----
-
-<!--
-### 📬 Contacts
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/username)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:@email.com)
--->
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Est-Void&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B22222&icon_color=B22222&text_color=C9D1D9&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Est-Void&hide_border=true&background=0D1117&ring=B22222&fire=FF6B6B&currStreakLabel=B22222&sideLabels=C9D1D9&dates=555555" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Est-Void&layout=compact&hide_border=true&bg_color=0D1117&title_color=B22222&text_color=C9D1D9&langs_count=8" width="45%" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Est-Void&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117"
+    width="48%"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Est-Void&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&exclude_repo=Est-Void"
+    width="45%"
+    alt="Top languages"
+  />
 </p>
