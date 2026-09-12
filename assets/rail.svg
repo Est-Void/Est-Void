@@ -1,0 +1,27 @@
+<svg width="34" height="320" viewBox="0 0 34 320" xmlns="http://www.w3.org/2000/svg">
+  <line x1="17" y1="16" x2="17" y2="304" stroke="#D4AF37" stroke-width="1.2" opacity="0.7" />
+  <g stroke="#D4AF37" stroke-width="1" opacity="0.7">
+    <line x1="0" y1="20" x2="34" y2="20" />
+    <line x1="0" y1="300" x2="34" y2="300" />
+  </g>
+  <g fill="none" stroke="#D4AF37" stroke-width="1.2">
+    <polygon points="17,28 25,36 17,44 9,36" />
+    <polygon points="17,92 25,100 17,108 9,100" />
+    <polygon points="17,156 25,164 17,172 9,164" />
+    <polygon points="17,220 25,228 17,236 9,228" />
+    <polygon points="17,284 25,292 17,300 9,292" />
+  </g>
+  <g stroke="#D4AF37" opacity="0.85">
+    <line x1="0" y1="36" x2="34" y2="36" />
+    <line x1="0" y1="100" x2="34" y2="100" />
+    <line x1="0" y1="164" x2="34" y2="164" />
+    <line x1="0" y1="228" x2="34" y2="228" />
+    <line x1="0" y1="292" x2="34" y2="292" />
+  </g>
+  <g fill="#D4AF37">
+    <rect x="12" y="64" width="10" height="4" />
+    <rect x="12" y="128" width="10" height="4" />
+    <rect x="12" y="192" width="10" height="4" />
+    <rect x="12" y="256" width="10" height="4" />
+  </g>
+</svg>
