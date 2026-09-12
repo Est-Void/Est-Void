@@ -1,17 +1,17 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:8B1A1A,100:0d1117&height=180&section=header&text=Dmitry&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Robotics%20%2F%20ML%20%2F%20Go%20%2F%20Linux&descSize=18&descAlignY=55&descColor=8b949e"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:8B1A1A,100:0d1117&height=180&section=header&text=Dmitry&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=C%20%2F%20Embedded%20%2F%20Linux&descSize=18&descAlignY=55&descColor=8b949e"
     alt="Profile header"
   />
 </div>
 
-# Dmitry — Robotics / ML / Go
+# Hello There 👋
 
-Software Development student focused on robotics, machine learning, computer vision and Linux system tooling. I build local LLM assistants, Telegram integrations and Go-based backend/system services.
+Software Development student focused on embedded systems, low-level C programming and Linux. I build firmware for ESP32, work with ESP-IDF and develop system-level tools.
 
 - 📍 Location: Serbia
 - 🌍 Open to: remote, internship and junior roles
-- 🎯 Focus: ROS2, computer vision, local LLMs, Go backend, Linux systems
+- 🎯 Focus: ESP32, ESP-IDF, Linux systems, low-level C
 
 ---
 
@@ -19,52 +19,18 @@ Software Development student focused on robotics, machine learning, computer vis
 
 | Area | Technologies |
 |---|---|
-| Languages | Python, Go, C, C++ |
-| Robotics / ML | ROS2, SLAM, OpenCV, YOLO, whisper.cpp, local LLMs |
-| Backend / Systems | Go, gRPC, Redis, D-Bus, systemd, Linux |
-| Tools | Docker, Git, Postman, Wayland (niri), EndeavourOS |
-
----
-
-## Projects
-
-### Genius Loci — Autonomous Mobile Robot System
-
-Diploma project: a complete software stack for warehouse logistics automation — onboard robot OS (SLAM navigation, stereo vision, A\* and DWA path planning), a FastAPI dispatch server with PostgreSQL, and a React/TypeScript web AIS for fleet monitoring.
-
-- **Stack:** Python, OpenCV, YOLOv8, NumPy/SciPy, ZeroMQ, FastAPI, PostgreSQL, SQLAlchemy, React 18, TypeScript, Vite, Tailwind, Zustand
-- **What I did:**
-  - implemented onboard robot OS with SLAM, stereo vision, A\* / DWA planners and gripper control
-  - built central dispatch server with task dispatcher and real-time WebSocket telemetry
-  - developed web AIS dashboard for fleet and warehouse monitoring
-- **Result:** working AMR system with multi-robot simulation and live map
-- [Repository](https://github.com/Est-Void/Diaploma_KIU)
-
-### Moonlight — TUI Night Sky Simulation
-
-Terminal-based night sky simulation: twinkling stars, meteors, lunar phases and rotating galaxies. Pure Python, zero external dependencies.
-
-- **Stack:** Python 3.10+ (standard library only)
-- **What I did:** implemented rendering loop, starfield, meteors, real lunar phases and interactive controls
-- **Result:** lightweight interactive TUI (runs on any terminal)
-- [Repository](https://github.com/Est-Void/Moonlight)
-
----
-
-## Currently Building
-
-- Real-time speech recognition pipeline with whisper.cpp
-- ROS2 packages for autonomous robotics
-- Distributed Go services with gRPC
-- Local LLM assistant with Telegram integration (Ollama / llama.cpp), deployed as a systemd service
+| Languages | C, C++, Python |
+| Embedded | ESP32, ESP-IDF, bare-metal |
+| Systems | Linux, systemd, D-Bus, Docker |
+| Tools | Vim, Git, Wayland (niri), EndeavourOS |
 
 ---
 
 ## Linux Environment
 
-I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and full control.
+I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and full control. Everything in the terminal, coded in **Vim**.
 
-- Custom systemd services for bots and local ML services
+- Custom systemd services and automations
 - D-Bus experiments between local processes
 - Docker for isolated services
 
