@@ -56,12 +56,121 @@
 
 ## Skills
 
-| Area | Technologies |
-|---|---|
-| Languages | C, C++, Python |
-| Embedded | ESP32, ESP-IDF, bare-metal |
-| Systems | Linux, systemd, D-Bus, Docker |
-| Tools | Vim, Git, Wayland (niri), EndeavourOS |
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/C-111318?style=for-the-badge&logo=c&logoColor=white"
+    alt="C"
+  />
+  <img
+    src="https://img.shields.io/badge/C++-111318?style=for-the-badge&logo=cplusplus&logoColor=white"
+    alt="C++"
+  />
+  <img
+    src="https://img.shields.io/badge/Go-111318?style=for-the-badge&logo=go&logoColor=white"
+    alt="Go"
+  />
+  <img
+    src="https://img.shields.io/badge/Python-111318?style=for-the-badge&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-111318?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/ESP32-111318?style=for-the-badge&logo=espressif&logoColor=white"
+    alt="ESP32"
+  />
+  <img
+    src="https://img.shields.io/badge/ESP--IDF-111318?style=for-the-badge&logo=espressif&logoColor=white"
+    alt="ESP-IDF"
+  />
+  <img
+    src="https://img.shields.io/badge/bare--metal-111318?style=for-the-badge&logoColor=white"
+    alt="bare-metal"
+  />
+  <img
+    src="https://img.shields.io/badge/Linux-111318?style=for-the-badge&logo=linux&logoColor=white"
+    alt="Linux"
+  />
+  <img
+    src="https://img.shields.io/badge/systemd-111318?style=for-the-badge&logo=systemd&logoColor=white"
+    alt="systemd user units"
+  />
+  <img
+    src="https://img.shields.io/badge/D--Bus-111318?style=for-the-badge&logoColor=white"
+    alt="D-Bus"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Git-111318?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/Make-111318?style=for-the-badge&logoColor=white"
+    alt="Make"
+  />
+  <img
+    src="https://img.shields.io/badge/CMake-111318?style=for-the-badge&logo=cmake&logoColor=white"
+    alt="CMake"
+  />
+  <img
+    src="https://img.shields.io/badge/Ninja-111318?style=for-the-badge&logoColor=white"
+    alt="Ninja"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-111318?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+  <img
+    src="https://img.shields.io/badge/Vim-111318?style=for-the-badge&logo=vim&logoColor=white"
+    alt="Vim"
+  />
+  <img
+    src="https://img.shields.io/badge/Bash-111318?style=for-the-badge&logo=gnubash&logoColor=white"
+    alt="Bash"
+  />
+  <img
+    src="https://img.shields.io/badge/niri-111318?style=for-the-badge&logo=wayland&logoColor=white"
+    alt="niri Wayland"
+  />
+  <img
+    src="https://img.shields.io/badge/Noctalia_shell-111318?style=for-the-badge&logoColor=white"
+    alt="Noctalia shell"
+  />
+  <img
+    src="https://img.shields.io/badge/EndeavourOS-111318?style=for-the-badge&logo=endeavouros&logoColor=white"
+    alt="EndeavourOS"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/TCP%2FIP-111318?style=for-the-badge&logoColor=white"
+    alt="TCP/IP"
+  />
+  <img
+    src="https://img.shields.io/badge/HTTP_proxies-111318?style=for-the-badge&logoColor=white"
+    alt="HTTP proxies"
+  />
+  <img
+    src="https://img.shields.io/badge/SSRF_hardening-111318?style=for-the-badge&logoColor=white"
+    alt="SSRF hardening"
+  />
+  <img
+    src="https://img.shields.io/badge/process_isolation-111318?style=for-the-badge&logoColor=white"
+    alt="process isolation"
+  />
+</p>
+
+<p align="center">
+  <em>Daily setup: EndeavourOS + niri, everything in the terminal, Vim everywhere — systemd user units for automation, D-Bus for local IPC, Docker for isolation.</em>
+</p>
 
 <div align="center">
   <img
@@ -71,13 +180,56 @@
   />
 </div>
 
-## Linux Environment
+## AI Tooling
 
-I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and full control. Everything in the terminal, coded in **Vim**.
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white"
+    alt="GitHub Copilot"
+  />
+  <img
+    src="https://img.shields.io/badge/OpenCode-111318?style=for-the-badge&logo=terminal&logoColor=white"
+    alt="OpenCode"
+  />
+  <img
+    src="https://img.shields.io/badge/Ollama-111318?style=for-the-badge&logo=ollama&logoColor=white"
+    alt="Ollama"
+  />
+  <img
+    src="https://img.shields.io/badge/llama.cpp-111318?style=for-the-badge&logoColor=white"
+    alt="llama.cpp"
+  />
+</p>
 
-- Custom systemd services and automations
-- D-Bus experiments between local processes
-- Docker for isolated services
+Daily drivers are **Copilot** for autocomplete and **OpenCode** for terminal-driven work — from
+firmware review to small system tools. For anything that should stay on this machine, I run
+local models through **Ollama** and **llama.cpp** instead of sending it to a hosted API.
+
+<div align="center">
+  <img
+    src="assets/divider.svg"
+    width="900"
+    alt="Art Deco divider"
+  />
+</div>
+
+## Projects
+
+### [berthpanel](https://github.com/Est-Void/berthpanel)
+
+Local-first deploy panel for self-hosted apps. Paste a GitHub URL — get a sandboxed build and a
+hardened **systemd user** unit on an assigned loopback port. No root, no daemon, allowlisted
+egress, `net.log` transparency, journaled cleanup of interrupted deploys.
+
+`C++20` · `systemd --user` · `alpha`
+
+### [KinoLink by VOID](https://github.com/Est-Void/KinoLink_by_VOID)
+
+A "Watch" button injected into movie sites plus a lightweight local player. Single static Go
+binary serves the player and proxies sources with SSRF protection; a userscript adds the button
+to Kinopoisk, IMDb, TMDB, Letterboxd and Netflix. Fully local — no subscriptions, no ads.
+
+`Go` · `TypeScript` · `userscript` · `Docker`
 
 <div align="center">
   <img
@@ -89,8 +241,8 @@ I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and
 
 ## Education
 
-- **Software and Program Engineering, Singidunum University (Serbia)** — currently studying
-- **Software Development, Kazan Innovative University (KIU)** — top-performing student, specialty 09.02.07 Information Systems and Programming
+- **Software and Program Engineering, Singidunum University (Serbia)** — 2026 — present, currently studying
+- **Information Systems and Programming, Kazan Innovative University (Russia)** — 2022–2026, top-performing student
 
 <div align="center">
   <img
@@ -103,8 +255,8 @@ I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and
 ## Languages
 
 - Russian — native
-- English — B2
-- Serbian — A1–A2
+- English — B2+ (professional working proficiency)
+- Serbian — conversational, learning
 
 <div align="center">
   <img
@@ -116,10 +268,28 @@ I use **EndeavourOS with the niri Wayland compositor** — minimalism, speed and
 
 ## Contact
 
-I am open to junior/intern roles, remote work and relocation opportunities.
+<p align="center">
+  <strong>Open to work</strong> — junior / internship roles, remote work and relocation.
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N3v3rth313ss)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Est-Void@protonmail.com)
+<p align="center">
+  <a href="https://t.me/N3v3rth313ss">
+    <img
+      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>
+  <a href="mailto:Est-Void@protonmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <br><br>
+  <a href="mailto:Est-Void@protonmail.com">Est-Void@protonmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/N3v3rth313ss">@N3v3rth313ss</a>
+</p>
 
 <div align="center">
   <img
@@ -133,13 +303,21 @@ I am open to junior/intern roles, remote work and relocation opportunities.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Est-Void&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=Est-Void&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=FFFFFF&icon_color=E63946&include_all_commits=true&count_private=true"
+    width="49%"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Est-Void&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&exclude_repo=Est-Void"
-    width="45%"
+    src="https://streak-stats.demolab.com?user=Est-Void&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=E63946&dates=8B949E"
+    width="49%"
+    alt="GitHub streak stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Est-Void&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=FFFFFF&exclude_repo=Est-Void&hide=html,css"
+    width="49%"
     alt="Top languages"
   />
 </p>
