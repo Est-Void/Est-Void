@@ -273,7 +273,7 @@ to Kinopoisk, IMDb, TMDB, Letterboxd and Netflix. Fully local — no subscriptio
 </p>
 
 <p align="center">
-  <a href="https://t.me/N3v3rth313ss">
+  <a href="https://t.me/unidentified_user">
     <img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram"
@@ -286,9 +286,6 @@ to Kinopoisk, IMDb, TMDB, Letterboxd and Netflix. Fully local — no subscriptio
     />
   </a>
   <br><br>
-  <a href="mailto:Est-Void@protonmail.com">Est-Void@protonmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/N3v3rth313ss">@N3v3rth313ss</a>
 </p>
 
 <div align="center">
